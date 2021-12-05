@@ -1,0 +1,15 @@
+D:\Code\Weekends\EFCoreDb\EFCore\bin\Debug\net5.0\EFCore.deps.json
+D:\Code\Weekends\EFCoreDb\EFCore\bin\Debug\net5.0\EFCore.runtimeconfig.json
+D:\Code\Weekends\EFCoreDb\EFCore\bin\Debug\net5.0\EFCore.runtimeconfig.dev.json
+D:\Code\Weekends\EFCoreDb\EFCore\bin\Debug\net5.0\EFCore.dll
+D:\Code\Weekends\EFCoreDb\EFCore\bin\Debug\net5.0\ref\EFCore.dll
+D:\Code\Weekends\EFCoreDb\EFCore\bin\Debug\net5.0\EFCore.pdb
+D:\Code\Weekends\EFCoreDb\EFCore\obj\Debug\net5.0\EFCore.csproj.AssemblyReference.cache
+D:\Code\Weekends\EFCoreDb\EFCore\obj\Debug\net5.0\EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Weekends\EFCoreDb\EFCore\obj\Debug\net5.0\EFCore.AssemblyInfoInputs.cache
+D:\Code\Weekends\EFCoreDb\EFCore\obj\Debug\net5.0\EFCore.AssemblyInfo.cs
+D:\Code\Weekends\EFCoreDb\EFCore\obj\Debug\net5.0\EFCore.csproj.CoreCompileInputs.cache
+D:\Code\Weekends\EFCoreDb\EFCore\obj\Debug\net5.0\EFCore.dll
+D:\Code\Weekends\EFCoreDb\EFCore\obj\Debug\net5.0\ref\EFCore.dll
+D:\Code\Weekends\EFCoreDb\EFCore\obj\Debug\net5.0\EFCore.pdb
+D:\Code\Weekends\EFCoreDb\EFCore\obj\Debug\net5.0\EFCore.genruntimeconfig.cache
